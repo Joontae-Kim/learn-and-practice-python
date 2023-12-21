@@ -10,3 +10,8 @@
 - https://www.learnpython.org/
 - https://www.tutorialspoint.com/python/index.htm
 - https://dojang.io/course/view.php?id=7 (Korean)
+
+## Study 일지
+- 2023년 12월 22일
+  - https://www.pythontutorial.net/python-basics/python-syntax/
+  - https://www.tutorialspoint.com/python/python_basic_syntax.htm
