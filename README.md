@@ -15,3 +15,6 @@
 - 2023년 12월 22일
   - https://www.pythontutorial.net/python-basics/python-syntax/
   - https://www.tutorialspoint.com/python/python_basic_syntax.htm
+- (다음) Python - Data Types
+    - https://www.tutorialspoint.com/python/python_data_types.htm
+    - https://www.pythontutorial.net/python-basics/
